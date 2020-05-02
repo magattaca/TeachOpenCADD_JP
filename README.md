@@ -12,17 +12,17 @@ Dominique Sydow, Andrea Morger, Maximilian Driller and Andrea Volkamer
 
 質問がある場合は teachopencadd@charite.de に連絡してください。もしくは、このページにない講義用チュートリアルについての情報、チュートリアルのもととなるアイデアがあればぜひ連絡してください。
 
-このページは　CC BY 4.0 ライセンスののもとで提供されています。ライセンスの詳細は　http://creativecommons.org/licenses/by/4.0/　をご覧ください。
+このページは　CC BY 4.0 ライセンスののもとで提供されています。ライセンスの詳細は　http://creativecommons.org/licenses/by/4.0/ をご覧ください。
 
 ## 目次  
 
-* [この教育用プラットフォームの目的について](#aims-of-this-teaching-platform)
-* [トピック](#topics)
-* [使い方](#usage-instructions)
+* [この教育用プラットフォームの目的について](#この教育用プラットフォームの目的)
+* [トピック](#トピック)
+* [使い方](#使い方)
 
 ## この教育用プラットフォームの目的
 
-([目次](#table-of-contents) に戻る)
+([目次](#目次) に戻る)
 
 コンピューター支援ドラッグデザイン (CADD)にとって、ケモインフォマティクスと構造バイオインフォマティクスに関するオープンソースのプログラミングパッケージは、パワフルなツールで、モジュール式かつ再現可能、簡単に共有可能なパイプラインを提供します。ところが、ツールの説明、ドキュメンテーションは利用可能な一方で、CADDの活用方法について焦点をあて、背景にあるコンセプトを教える上で、自由に利用可能な具体例はほんの少ししかありません。例を挙げれば TDT initiative と言ったものがあります。 [1]
 
@@ -43,7 +43,7 @@ Dominique Sydow, Andrea Morger, Maximilian Driller and Andrea Volkamer
 
 ## トピック
 
-([目次](#table-of-contents) に戻る。)
+([目次](#目次) に戻る。)
 
 TeachOpenCADDのトピックはいわゆる **トークトリアル（talkatorial）** の形式（理論とコードのミックスで、プレゼンテーション形式での発表にも利用可能な形式）で取り上げられていて、現在、以下の内容で構成されています：
 
@@ -72,9 +72,9 @@ TeachOpenCADDのトピックはいわゆる **トークトリアル（talkatoria
 * コーディングベースのJupyter Notebook（topics 1-11）はGithubのこのページにあり、いわゆるトークトリアル（talktorial = talk + tutorial）、つまりプレゼンテーションでも使えるチュートリアルの形式です。
 * GUIベースのKNIME ワークフロー (topics 1-8) は [KNIME Hub](https://hub.knime.com/volkamerlab/space/TeachOpenCADD/TeachOpenCADD) で手に入ります。
 
-## 使用方法
+## 使い方
 
-([目次](#table-of-contents) に戻る。)
+([目次](#目次) に戻る。)
 
 レポジトリと必要な依存関係にあるものを全てホストするためにBinderを使うことができます。あるいはローカルでトークトリアルを使うこともできます（レポジトリをダウンロートして、依存関係にあるものをインストールしてください）
 
@@ -117,7 +117,7 @@ TeachOpenCADDのトピックはいわゆる **トークトリアル（talkatoria
     ```
 
     Note: この環境を手動でつくることもできます。
-    ["別の方法：conda環境を手動で作る"](#Alternatively-create-conda-environment-manually) を参照してください。
+    ["別の方法：conda環境を手動で作る"](#別の方法：conda環境を手動で作る) を参照してください。
 
 4.  作成したconda環境をアクティベートしてください。
 
@@ -244,7 +244,7 @@ https://stackoverflow.com/questions/28210269/importerror-cannot-import-name-main
 
 ## 連絡先
 
-([目次](#table-of-contents) に戻る。)
+([目次](#目次) に戻る。)
 
 質問や提案があれば連絡してください！
 
@@ -257,13 +257,13 @@ https://stackoverflow.com/questions/28210269/importerror-cannot-import-name-main
 
 ## ライセンス
 
-([目次](#table-of-contents) に戻る。)
+([目次](#目次) に戻る。)
 
 この仕事は Attribution 4.0 International (CC BY 4.0) のもとでライセンスされています。このライセンスのコピーをみるには次のリンクを参照してください http://creativecommons.org/licenses/by/4.0/ 。
 
 ## 引用
 
-([目次](#table-of-contents) に戻る。)
+([目次](#目次) に戻る。)
 
 TeachOpenCADDプラットフォームの著者らは次の出資者からの公的出資を受け取っています:
 
